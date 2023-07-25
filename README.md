@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>House Prices: Advanced Regression Techniques</title>
-</head>
-<body>
 
 <h1>House Prices: Advanced Regression Techniques</h1>
 
