@@ -1,8 +1,8 @@
 
-<h1>House Prices: Advanced Regression Techniques</h1>
+<h1>Real Estate Price Prediction</h1>
 
 <h2>Project Overview</h2>
-<p>Welcome to the House Prices prediction project! The main aim of this project is to predict house prices based on various features using advanced regression techniques. The project is divided into three exciting phases: Data Analysis, Feature Engineering, and Feature Selection.</p>
+<p>Welcome to the Real Estate Price Prediction project! The main aim of this project is to predict Real Estate Price  based on various features using advanced regression techniques. The project is divided into three exciting phases: Data Analysis, Feature Engineering, and Feature Selection.</p>
 
 <h2> Dataset</h2>
 <p>The dataset for this project can be downloaded from the Kaggle competition: <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data">House Prices: Advanced Regression Techniques</a>.</p>
